@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DownloadPacotes",
+            "request": "launch",
+            "mainClass": "DownloadPacotes",
+            "projectName": "Desafios-de-Projeto-Java_e96b23c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndustriaMulta",
+            "request": "launch",
+            "mainClass": "IndustriaMulta",
+            "projectName": "Desafios-de-Projeto-Java_e96b23c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeituraGertrudes",
+            "request": "launch",
+            "mainClass": "LeituraGertrudes",
+            "projectName": "Desafios-de-Projeto-Java_e96b23c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LojinhaDoces",
+            "request": "launch",
+            "mainClass": "LojinhaDoces",
+            "projectName": "Desafios-de-Projeto-Java_e96b23c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch MesadaSobrinho",
+            "request": "launch",
+            "mainClass": "MesadaSobrinho",
+            "projectName": "Desafios-de-Projeto-Java_e96b23c0"
+        }
+    ]
+}
